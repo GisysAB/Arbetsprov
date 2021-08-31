@@ -15,7 +15,7 @@ Du ska bygga en applikation som hämtar data från ett externt API och presenter
 ## Vyer
 
 ### Alla anställda
-En vy på alla anställda där man ser namnet på varje anställd
+En vy på alla anställda där man ser namnet på varje anställd där man kan klicka för att komma till den anställdes vy.
 
 **API**
 - http://dummy.restapiexample.com/api/v1/employees
