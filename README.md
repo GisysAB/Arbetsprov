@@ -10,7 +10,9 @@ Arbetsprovet ska vara inskickat inom en vecka från utskickat datum eller enligt
 
 ## Uppgift
 
-Du ska bygga en applikation som hämtar data från ett externt API och presentera på ett snyggt sätt. 
+Du ska bygga en applikation som hämtar data från ett externt API och presentera på ett snyggt sätt.
+
+Lösa uppgiften med **Angular** eller **React** är meriterande.
 
 ## Vyer
 
